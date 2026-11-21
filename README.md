@@ -2,7 +2,10 @@
 
 A 100% offline, privacy-first desktop voice & CLI agent engineered to run fast on a **4 GB VRAM** laptop GPU—with zero cloud APIs, zero raw shell execution, and customizable OS tool packs.
 
-<!-- DEMO_VIDEO_HERE: Drop your 25s screen recording here after pushing to GitHub! -->
+<!-- Demo Video -->
+https://github.com/mananchothani2006/local-voice-agent/raw/main/assets/demo.mp4
+
+> **[Watch the 2-minute live demo](assets/demo.mp4)** — showing `F10` push-to-talk, multi-step tool execution (`Omawrite` + volume `20% → 50%`), and CPU-only Kokoro voice confirmation on a 4 GB VRAM laptop.
 
 ---
 
@@ -34,7 +37,7 @@ flowchart LR
 ## Quickstart
 
 ```bash
-git clone https://github.com/<your-username>/local-voice-agent.git
+git clone https://github.com/mananchothani2006/local-voice-agent.git
 cd local-voice-agent
 ./install.sh
 ```
