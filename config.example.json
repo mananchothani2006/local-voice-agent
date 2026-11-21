@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis",
+  "model": "ibm/granite4",
+  "ollama_url": "http://127.0.0.1:11434/api/chat",
+  "voice": "af_bella",
+  "keep_alive": 0,
+  "packs": ["common"]
+}
